@@ -40,10 +40,12 @@ The analysis compared two models: Logistic Regression and KNN. Both models were 
 
 While KNN had higher accuracy, Logistic Regression showed a slightly better **AUC score**, indicating its superior ability to distinguish between positive and negative classes.
 
+[Final Project Report](report.pdf)
+
 **✒️ Author**
 
-**Name:** Rishesh Tiwari
-**Student ID:** 2511MC03
+- **Name:** Rishesh Tiwari
+- **Student ID:** 2511MC03
 
 
 
